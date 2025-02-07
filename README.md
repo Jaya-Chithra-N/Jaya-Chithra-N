@@ -6,21 +6,18 @@
 
 🌱 Currently building **Student Record Management System** 🏫📑  
 💻 Working with **React, Node.js, MongoDB, Express** 🛠️  
-🤖 Exploring **AI, Robotics, and Embedded Systems** 🤩  
+🤖 Exploring **AI , ML** 🤩  
 
 🏆 **Achievements & Interests:**  
 ✅ **LeetCode 200+ problems solved** 🏅  
-✅ **IEEE Xtreme Participant** ⚡  
-✅ **e-Yantra Robotics Enthusiast** 🤖🚀  
+✅ **IEEE Xtreme Participant** ⚡   
 ✅ **MERN Stack Projects: PodStream, Attendance System & more** 🎧📅  
-✅ **Built a Sign Language Translator using AI** ✋🔠  
 
-📚 **Learning:** DevOps, Cloud ☁️ & Cybersecurity 🔐  
+📚 **Learning:** DSA, React, Node.js 🔐  
 📌 **Hobbies:** Solving Puzzles 🧩, Debugging Errors 🐞 & Exploring New Tech 🔍  
 
-📬 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/jaya-chithra-n-b3a514259/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#jayachithratuty@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](#)  
+📬 **Let's Connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaya-chithra-n-b3a514259/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayachithratuty@gmail.com)  
 
 🚀 **“Code, Create, Conquer!”** 🎯🔥  
