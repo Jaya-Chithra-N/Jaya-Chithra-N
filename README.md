@@ -1,6 +1,6 @@
 # Hi there! I'm Jaya 👋😄![](https://komarev.com/ghpvc/?username=Jaya-Chithra-N)
 
-Tech Explorer | Problem Solver | Innovator 💡💻<br>🔹 Full-Stack Developer (MERN) | AI & ML Enthusiast 🤖📊<br>🔹 Passionate about Competitive Programming & Open Source 🔥💯<br><br>🌱 Currently building Student Record Management System 🏫📑<br>💻 Working with React, Node.js, MongoDB, Express 🛠️<br>🤖 Exploring AI , ML 🤩<br><br>🏆 Achievements & Interests:<br>✅ LeetCode 200+ problems solved 🏅<br>✅ IEEE Xtreme Participant ⚡<br>✅ MERN Stack Projects: PodStream, Attendance System & more 🎧📅<br><br>📚 Learning: DSA, React, Node.js 🔐<br>📌 Hobbies: Solving Puzzles 🧩, Debugging Errors 🐞 & Exploring New Tech 🔍
+Tech Explorer | Problem Solver | Innovator 💡💻<br>🔹 Full-Stack Developer (MERN) | AI & ML Enthusiast 🤖📊<br>🔹 Passionate about Competitive Programming & Open Source 🔥💯<br><br>🌱 Currently building Student Record Management System 🏫📑<br>💻 Working with React, Node.js, MongoDB, Express 🛠️<br>🤖 Exploring AI , ML 🤩<br><br>🏆 Achievements & Interests:<br>✅ LeetCode 200+ problems solved 🏅<br>✅ IEEE Xtreme Participant ⚡<br>✅ MERN Stack Projects: PodStream, Student Record Management System & more 🎧📅<br><br>📚 Learning: DSA, React, Node.js 🔐<br>📌 Hobbies: Solving Puzzles 🧩, Debugging Errors 🐞 & Exploring New Tech 🔍
 
 
 ## 🌐 Socials:
